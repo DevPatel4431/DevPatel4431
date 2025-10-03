@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **C++, Data Structures & Algorithms, Competitive Programming (CF Specialist)**
 
-- 📫 How to reach me **devpatel4431@gmail.com**
-
 - ⚡ Fun fact **I can spend hours debugging but still enjoy the process 😄**
 
 ---
@@ -23,19 +21,19 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://linkedin.com/in/devpatel4431" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" style="margin:0 10px;" />
+        <img src="https://img.icons8.com/?size=80&id=13930&format=png&color=00F0FF" width="50" title="LinkedIn"/>
     </a>
     <a href="https://instagram.com/devpatel_4431" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" style="margin:0 10px;" />
+        <img src="https://img.icons8.com/?size=80&id=32323&format=png&color=00F0FF" width="50" title="Instagram"/>
     </a>
     <a href="https://www.codechef.com/users/devpatel4431" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="40" height="40" style="margin:0 10px;" />
+        <img src="https://img.icons8.com/?size=80&id=LnZMjt9rZC3d&format=png&color=00F0FF" width="50" title="CodeChef"/>
     </a>
     <a href="https://codeforces.com/profile/DBP_Heaven" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="40" height="40" style="margin:0 10px;" />
+        <img src="https://img.icons8.com/?size=80&id=YSy0lU4Y0X4z&format=png&color=00F0FF" width="50" title="CodeForces"/>
     </a>
     <a href="https://auth.geeksforgeeks.org/user/devpatel_4431" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" width="40" height="40" style="margin:0 10px;" />
+        <img src="https://img.icons8.com/?size=80&id=AbQBhN9v62Ob&format=png&color=00F0FF" width="50" title="GeeksforGeeks"/>
     </a>
 </p>
 
@@ -44,28 +42,28 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin:0 10px;" />
+        <img src="https://img.icons8.com/?size=80&id=40670&format=png&color=00F0FF" width="50" title="C"/>
     </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin:0 10px;" />
+        <img src="https://img.icons8.com/?size=80&id=40669&format=png&color=00F0FF" width="50" title="C++"/>
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin:0 10px;" />
+        <img src="https://img.icons8.com/?size=80&id=21278&format=png&color=00F0FF" width="50" title="CSS"/>
     </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin:0 10px;" />
+        <img src="https://img.icons8.com/?size=80&id=20909&format=png&color=00F0FF" width="50" title="HTML"/>
     </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin:0 10px;" />
+        <img src="https://img.icons8.com/?size=80&id=13679&format=png&color=00F0FF" width="50" title="Java"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin:0 10px;" />
+        <img src="https://img.icons8.com/?size=80&id=108784&format=png&color=00F0FF" width="50" title="JavaScript"/>
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40" style="margin:0 10px;" />
+        <img src="https://img.icons8.com/?size=80&id=54087&format=png&color=00F0FF" width="50" title="nodejs"/>
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin:0 10px;" />
+        <img src="https://img.icons8.com/?size=80&id=13441&format=png&color=00F0FF" width="50" title="python"/>
     </a>
 </p>
 
