@@ -31,7 +31,7 @@
     <a href="https://www.codechef.com/users/devpatel4431" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="40" height="40" style="margin:0 10px;" />
     </a>
-    <a href="https://codeforces.com/profile/dbp_heaven" target="_blank">
+    <a href="https://codeforces.com/profile/DBP_Heaven" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="40" height="40" style="margin:0 10px;" />
     </a>
     <a href="https://auth.geeksforgeeks.org/user/devpatel_4431" target="_blank">
